@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Factory": {
+      "commandName": "Project",
+      "commandLineArgs": "--source myfile.txt --dest Copy.txt --buffer 2048"
+    }
+  }
+}

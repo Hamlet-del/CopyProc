@@ -1,0 +1,16 @@
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\bin\Debug\net10.0\Tnain.exe
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\bin\Debug\net10.0\Tnain.deps.json
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\bin\Debug\net10.0\Tnain.runtimeconfig.json
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\bin\Debug\net10.0\Tnain.dll
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\bin\Debug\net10.0\Tnain.pdb
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\Tnain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\Tnain.AssemblyInfoInputs.cache
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\Tnain.AssemblyInfo.cs
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\Tnain.csproj.CoreCompileInputs.cache
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\Tnain.dll
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\refint\Tnain.dll
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\Tnain.pdb
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\Tnain.genruntimeconfig.cache
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\obj\Debug\net10.0\ref\Tnain.dll
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\bin\Debug\net10.0\Copy.txt
+C:\Users\Kerobyan Family\source\repos\Factory\Factory\bin\Debug\net10.0\myfile.txt
